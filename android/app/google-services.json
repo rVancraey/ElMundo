@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1040673487584",
+    "firebase_url": "https://el-mundo-app-68b04.firebaseio.com",
+    "project_id": "el-mundo-app-68b04",
+    "storage_bucket": "el-mundo-app-68b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040673487584:android:24c318440f5b5cb254ae85",
+        "android_client_info": {
+          "package_name": "com.example.el_mundo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040673487584-dcjmimrtkjts195e34sjbc5uihgsk121.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwU3xtGj7gFBptE56lxKwh_hWTyV39d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040673487584-dcjmimrtkjts195e34sjbc5uihgsk121.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
